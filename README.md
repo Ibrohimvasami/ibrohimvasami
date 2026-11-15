@@ -1,4 +1,4 @@
-sSalom
+Salom
 Men haqimda
 Mening ismim Samina
 Familyam Ibrohimova
@@ -12,3 +12,4 @@ GitHub'dan foydalanishni o'rganish
 Dasturlashni rivojlantirish
 Yangi loyihalar yaratish
 Yangi o'zgarish
+Men sinov branchida o'zgarish qildim
