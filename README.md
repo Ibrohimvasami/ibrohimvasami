@@ -1,4 +1,4 @@
-Salom
+sSalom
 Men haqimda
 Mening ismim Samina
 Familyam Ibrohimova
